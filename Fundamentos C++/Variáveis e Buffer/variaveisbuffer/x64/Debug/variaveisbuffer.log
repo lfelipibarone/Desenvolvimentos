@@ -1,0 +1,6 @@
+﻿  variaveisbuffer.cpp
+C:\Users\Felipi Barone\Documents\GitHub\Desenvolvimentos\Fundamentos C++\Variáveis e Buffer\variaveisbuffer\variaveisbuffer.cpp(11,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\Felipi Barone\Documents\GitHub\Desenvolvimentos\Fundamentos C++\Variáveis e Buffer\variaveisbuffer\variaveisbuffer.cpp(19,9): warning C4473: 'printf' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+C:\Users\Felipi Barone\Documents\GitHub\Desenvolvimentos\Fundamentos C++\Variáveis e Buffer\variaveisbuffer\variaveisbuffer.cpp(19,9): message : espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 0 foram fornecidos
+C:\Users\Felipi Barone\Documents\GitHub\Desenvolvimentos\Fundamentos C++\Variáveis e Buffer\variaveisbuffer\variaveisbuffer.cpp(19,9): message : o argumento variadic 1 ausente é requerido pela cadeia de formato '%d'
+  variaveisbuffer.vcxproj -> C:\Users\Felipi Barone\Documents\GitHub\Desenvolvimentos\Fundamentos C++\Variáveis e Buffer\variaveisbuffer\x64\Debug\variaveisbuffer.exe
