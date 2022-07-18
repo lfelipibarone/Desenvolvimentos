@@ -5,9 +5,9 @@
 
 void main()
 {
-	
 
-    //FinalizaÃ§Ã£o do Sistema
+
+    //Finalização do Sistema
     system ("pause");
     return 0;
 
